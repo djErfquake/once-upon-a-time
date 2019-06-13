@@ -1,4 +1,4 @@
-const NUM_OF_CARDS = 10;
+const NUM_OF_CARDS = 6;
 
 const express = require('express');
 const app = express();

@@ -1,5 +1,5 @@
-const COUNTDOWN_TIME = 1;
-const RESET_TIME = 0.7;
+const COUNTDOWN_TIME = 15;
+const RESET_TIME = 0.3;
 
 const CARD_COLORS = {
     "aspect": "#ff6b6b",
