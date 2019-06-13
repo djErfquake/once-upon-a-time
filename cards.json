@@ -1,0 +1,1182 @@
+[
+    {
+        "name": "Queen",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "King",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Princess",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Guard",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Cook",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Thief",
+        "interruptible": true,
+        "cardtype": "character"
+    },
+    {
+        "name": "Beggar",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Stepmother",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Orphan",
+        "interruptible": true,
+        "cardtype": "character"
+    },
+    {
+        "name": "Pirate",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Pilot",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Giant",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Wolf",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Fairy",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Horse",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Dragon",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Witch",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Dwarf",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Bird",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Stepsister",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Ogre",
+        "interruptible": true,
+        "cardtype": "character"
+    },
+    {
+        "name": "Woodsman",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Rat",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Fisherman",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Sailor",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Knight",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Squire",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Witch",
+        "interruptible": true,
+        "cardtype": "character"
+    },
+    {
+        "name": "Wizard",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Genie",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Army",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Egg",
+        "interruptible": true,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Sword",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Magic Spell",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Throne",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Palace",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Ring",
+        "interruptible": true,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Trap",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Key",
+        "interruptible": true,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Treasure",
+        "interruptible": true,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Clothes",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Door",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Tree",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Window",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Book",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Cauldron",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Fire",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "A Well",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Gift",
+        "interruptible": true,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Broom",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Bone",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Potion",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Mirror",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Shoe",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Kiss",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Chest",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Boar",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Raft",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Map",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Knife",
+        "interruptible": true,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Bottle",
+        "interruptible": true,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Armor",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Shield",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Token of One's Love",
+        "interruptible": true,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Relic",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Forest",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Mountain",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Hut",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "City",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Dungeon",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "A Nest",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Tower",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Prison Cell",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Palace",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "River",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Cave",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Mountain",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Ruin",
+        "interruptible": true,
+        "cardtype": "place"
+    },
+    {
+        "name": "Swamp",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Bridge",
+        "interruptible": true,
+        "cardtype": "place"
+    },
+    {
+        "name": "A Hole",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Underground",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Stables",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Thrown Room",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Tavern",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Island",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "At Sea",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Port",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Underwater",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Cliffs",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Castle",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Tournament Arena",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Tomb",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Shrine",
+        "interruptible": true,
+        "cardtype": "place"
+    },
+    {
+        "name": "Missing a Limb",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Disguised",
+        "interruptible": true,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Haunted",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Lazy",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Greedy",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Brave",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Hungry",
+        "interruptible": true,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Stolen",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Wise",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Secret",
+        "interruptible": true,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Frightened",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Ugly",
+        "interruptible": true,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Very Strong",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Blind",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Crazy",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Cursed",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "It Can Fly",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "It Can Talk",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Bejeweled",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Tiny",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Long-Lost",
+        "interruptible": true,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Poor",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Jealous",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Lonely",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Fat",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Skinny",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Wealthy",
+        "interruptible": true,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Water-Breathing",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Unconscious",
+        "interruptible": true,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Reckless",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Cowardly",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Dishonored",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Enchanted",
+        "interruptible": true,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Argument",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Fallen on Hard Times",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Kidnapped",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Someone Faints",
+        "interruptible": true,
+        "cardtype": "event"
+    },
+    {
+        "name": "Revenge",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Contest",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Escaping",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Fighting",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "A wound",
+        "interruptible": true,
+        "cardtype": "event"
+    },
+    {
+        "name": "Chasing",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Someone is Hurt",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Imprisoned",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "It Broke",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Rescued",
+        "interruptible": true,
+        "cardtype": "event"
+    },
+    {
+        "name": "Lost",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Found",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "It Came Alive",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Storm",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Transformation",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "It can talk!",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Mistaken Identity",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Dancing",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Making Friends",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Someone Disobeys",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "A Promise",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Weather Change",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Swallowed Whole",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Stowed Away",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Shipwrecked",
+        "interruptible": true,
+        "cardtype": "event"
+    },
+    {
+        "name": "Quest",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Breaking a Vow",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "A strange noise",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "Battle",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "...so she revealed her true identity and they were married the next day",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so the rightful ruler was placed on the throne once again",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so it was her courage that had made her rich",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so she escaped that awful place and fled home",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so she revealed her true identity and they were married",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and he kept his father's advice in mind from that day onwards",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and the parents were reunited with their long-lost child",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and he lived the rest of his life as a beggar … which was perfectly just",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...which proves that a heart that is brave and true will always triumph in the end",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so they changed places and everything was back to normal",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...which proves you should always be careful when choosing your companions",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so the witch perished in her own cauldron",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and so, beaten, the foul creature was driven out of the kingdom",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...but no matter how hard they searched they were never able to find it again",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so they knew that the visitor had been a monster all along",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and so true love had broken the enchantment",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...which is how the kingdom got such an unusual name",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and with the enemy dead they could get married at last",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and his broken heart was mended",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and the enchanted thing saved them all",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so the mirror cracked and all her evil was undone",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so the monster was shown to have a kind heart after all",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and the potion finally restored his memory",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...but they never again took any advice from a fairy",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...which is how a simple maid came to be queen of this land",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so he sat on the beach and thought of the treasure he had lost",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so they dug up the chest, but the treasure was long gone.",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...but she chose to stay with the pirates.",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and with its treasure returned, the monster was never seen again",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so the king ordered the island to be removed from all maps so no-one could ever go there again",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so he became the most feared pirate in history",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and he continued to wear her symbol on his shield from that day onward",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so his lady love touched the relic to his lips and he was healed",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and although she was unarmed, she defeated that mighty opponent and won back her manor",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so the queen banished the wizard and had the tomb restored to its former glory",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and that's why the fierce beast still guards the ruins every night.",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and with the beast's true identity known the family could live peacefully.",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and so it turns out that sometimes the smallest creatures can save a mighty kingdom.",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and they let the beast keep the treasure because they had found each other, which was worth much more.",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and that's how they got their distinctive markings.",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so his wound was healed, but his heart remained broken forever",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "Animal Butler",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Rebel leader",
+        "interruptible": false,
+        "cardtype": "character"
+    },
+    {
+        "name": "Magic clothing",
+        "interruptible": true,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Mask",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Strange clothing",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "Item that grants invisibility",
+        "interruptible": false,
+        "cardtype": "thing"
+    },
+    {
+        "name": "A Secret Lair",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "A city in a strange place",
+        "interruptible": false,
+        "cardtype": "place"
+    },
+    {
+        "name": "Pulsating",
+        "interruptible": true,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Crazy Old",
+        "interruptible": true,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Chained Up",
+        "interruptible": true,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Hairy",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Winged",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Sticky",
+        "interruptible": false,
+        "cardtype": "aspect"
+    },
+    {
+        "name": "Stomach swelled so big it exploded into a gruesome mess",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "It Exloded",
+        "interruptible": false,
+        "cardtype": "event"
+    },
+    {
+        "name": "...so everything turned green again and there was peace throughout the land",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and they lived in that strange place for the rest of their days",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and they let the beast keep the treasure because they had found each other, which was worth much more.",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...and that's how a slave became the wealthiest woman in the land.",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "... and that's how he discovered that your greatest wish can be your worst nightmare.",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "... and their secrets are still enclosed in the tomb today.",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "...so it just goes to show that all it takes is one beetle.",
+        "interruptible": false,
+        "cardtype": "ending"
+    },
+    {
+        "name": "Traditional Fairy Tale",
+        "interruptible": false,
+        "cardtype": "theme"
+    },
+    {
+        "name": "Science Fiction",
+        "interruptible": false,
+        "cardtype": "theme"
+    },
+    {
+        "name": "Norse",
+        "interruptible": false,
+        "cardtype": "theme"
+    },
+    {
+        "name": "Greeky Myth",
+        "interruptible": false,
+        "cardtype": "theme"
+    },
+    {
+        "name": "Ancient Egypt",
+        "interruptible": false,
+        "cardtype": "theme"
+    },
+    {
+        "name": "Chinese",
+        "interruptible": false,
+        "cardtype": "theme"
+    },
+    {
+        "name": "At Sea",
+        "interruptible": false,
+        "cardtype": "theme"
+    },
+    {
+        "name": "Atlantis",
+        "interruptible": false,
+        "cardtype": "theme"
+    },
+    {
+        "name": "Western",
+        "interruptible": false,
+        "cardtype": "theme"
+    },
+    {
+        "name": "Post Apocolyptic",
+        "interruptible": false,
+        "cardtype": "theme"
+    },
+    {
+        "name": "Arabian",
+        "interruptible": false,
+        "cardtype": "theme"
+    },
+    {
+        "name": "American Indians",
+        "interruptible": false,
+        "cardtype": "theme"
+    }
+]
